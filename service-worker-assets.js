@@ -97,7 +97,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-d451n0eItSEYNvseSilZjtEiq5JMgLvC3stg4wZuLyA=",
+      "hash": "sha256-LVEBKiT21idfDfNM0LonqjJiMUpdjjABbaBETA7+TfY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -245,11 +245,11 @@
       "url": "_framework\/Tewr.Blazor.FileReader.dll"
     },
     {
-      "hash": "sha256-vZA0l1ueHvgnZP5\/cu5Pr6au2+IdGqjX64KFgx0P9tU=",
+      "hash": "sha256-R1ieMToJqWgUro47EbGD+Lo3XYYzuqgEDAMZFRSTG0Q=",
       "url": "_framework\/dotnet.7.0.0.s6mvtwqyuy.js"
     },
     {
-      "hash": "sha256-1vfhoEviWzfVenlitBOibodbTvvJSpmY\/hvUT0d\/jZk=",
+      "hash": "sha256-b+3WH3AzqMjetpMAtrZKc4oYzwVNu6TgEDuhZ4qAd3A=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -265,5 +265,5 @@
       "url": "_content\/Tewr.Blazor.FileReader\/FileReaderComponent.js.map"
     }
   ],
-  "version": "6CpblFrG"
+  "version": "K7HDfkwW"
 };
